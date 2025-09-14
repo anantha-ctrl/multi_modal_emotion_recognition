@@ -1,0 +1,9 @@
+paths:
+  video_sample: "./data/video/sample_video.wav"
+  audio_sample: "./data/audio/sample_audio.mp3"
+  text_sample: "./data/text/sample_text.txt"
+
+parameters:
+  frame_rate: 1
+  text_max_length: 128
+  num_classes: 4

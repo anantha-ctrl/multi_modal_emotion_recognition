@@ -1,0 +1,8 @@
+torch
+transformers
+opencv-python
+librosa
+streamlit
+numpy
+scikit-learn
+pandas
