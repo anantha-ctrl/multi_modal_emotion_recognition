@@ -22,7 +22,7 @@ This project is an advanced **Multi-modal Emotion Recognition System** that inte
 
 Here’s what the app looks like in action:
 
-![App Screenshot][(https://res.cloudinary.com/de1tywvqm/image/upload/v1757834533/Screenshot_2025-09-14_123705_vcvnhm.png)]
+!(https://res.cloudinary.com/de1tywvqm/image/upload/v1757834533/Screenshot_2025-09-14_123705_vcvnhm.png)
 
 ---
 
